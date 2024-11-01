@@ -22,7 +22,7 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.leetcode.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_leetcode: yes
           plugin_leetcode_user: nassimch
@@ -30,6 +30,7 @@ jobs:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
