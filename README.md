@@ -1,6 +1,5 @@
 ![Personal Stats](./github-metrics.svg)
 ![Personal Commits](./metrics.plugin.isocalendar.svg)
-![LeetCode Stats](./metrics.plugin.leetcode.svg)
 
 
 <!--
