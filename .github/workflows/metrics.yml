@@ -26,6 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_leetcode: yes
           plugin_leetcode_user: nassimch
+          plugin_leetcode_sections: solved, skills, recent
+          base: ""
 
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
