@@ -18,10 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15 
-          plugin_languages_categories: programming  
-          plugin_languages_recent_load: yes  
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
