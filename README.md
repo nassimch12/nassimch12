@@ -1,3 +1,5 @@
+![Personal Stats](./github-metrics.svg)
+![LeetCode Stats](./metrics.plugin.leetcode.svg)
 
 
 <!--
