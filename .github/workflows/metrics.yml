@@ -26,8 +26,7 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          with:
-            token: ${{ secrets.METRICS_TOKEN }}
-            plugin_leetcode: yes
-            plugin_leetcode_user: nassimch
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_leetcode: yes
+          plugin_leetcode_user: nassimch
 
