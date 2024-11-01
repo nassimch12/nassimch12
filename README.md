@@ -1,6 +1,8 @@
 ![Personal Stats](./github-metrics.svg)
+
 ![Personal Commits](./metrics.plugin.isocalendar.svg)
 
+![LeetCode Stats](./metrics.plugin.leetcode.svg)
 
 <!--
 **nassimch12/nassimch12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
